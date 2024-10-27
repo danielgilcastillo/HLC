@@ -3,14 +3,9 @@ Instrucciones en el README.md que explican cómo ejecutar y probar el código:
 
 Este proyecto implementa un sistema de calefacción y termostato basado en los principios SOLID para mejorar su estructura, cohesión y flexibilidad.
 
-## Requisitos
 
-Antes de ejecutar este proyecto, asegúrate de tener instalados los siguientes elementos:
-- **Java JDK 8 o superior**
-- **NetBeans IDE** (u otro IDE compatible con Java)
-- **Git** (si deseas clonar el proyecto desde un repositorio)
 
-## Instrucciones para Clonar y Ejecutar el Proyecto
+Instrucciones para Clonar y Ejecutar el Proyecto
 
 1. **Clonar el repositorio**:
    Abre la terminal y ejecuta el siguiente comando para clonar el repositorio:
